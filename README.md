@@ -3,7 +3,6 @@ Customer Shopping Behavior Analysis project analyzing 3,900 transactions to unco
 
 Customer Shopping Behavior Analysis
 -> Overview
-
 This project analyzes customer shopping behavior using transactional data to uncover insights into spending patterns, customer segmentation, subscription impact, and product performance. The workflow covers end-to-end data analytics — from data loading and cleaning in Python to SQL-based business analysis and dashboard creation in Power BI.
 
 -> Dataset
@@ -21,7 +20,7 @@ Power BI
 Jupyter Notebook
 Gamma (for presentation)
 
-🔎 Project Steps
+-> Project Steps
 1️⃣ Data Loading & EDA (Python)
 Loaded dataset using Pandas
 Performed exploratory data analysis
